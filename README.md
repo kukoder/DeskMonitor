@@ -1,6 +1,7 @@
 # DeskMonitor — Компактная панель мониторинга для Windows
 
 Лёгкая, быстрая и компактная панель мониторинга рабочего стола Windows (CPU, Cores, GPU, RAM, Ping, Сетевой трафик и IP-адреса). Создано AI.
+<img width="1280" height="720" alt="изображение" src="https://github.com/user-attachments/assets/c82bb734-1255-4424-8fc1-faf2d93bbd0b" />
 
 ---
 
